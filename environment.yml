@@ -1,0 +1,5 @@
+name: github-jobs-env
+dependencies:
+- python=3
+- numpy
+- jupyter
